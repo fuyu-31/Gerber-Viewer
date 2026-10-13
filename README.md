@@ -26,7 +26,7 @@ Web上でのガーバーデータ確認用の簡易ツール
 基板の製造・発注を行う場合は、元のCADデータや製造業者側のGerberチェック等も併用してください。
 
 詳細な利用条件・注意事項・ライセンスについては
-https://kb2218-31.github.io/Gerber-Viewer/info.html を参照してください。
+https://fuyu-31.github.io/Gerber-Viewer/info.html を参照してください。
 
 ## Third-party libraries
 
